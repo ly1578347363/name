@@ -1,6 +1,6 @@
-# qqq
+# 后台管理项目
 
-## Project setup
+## 技术站，vue，element
 ```
 npm install
 ```
